@@ -3,7 +3,7 @@
 Basic configuration over XML for Spring Security
 
 Technologies:
-- Java 8
+- Java 7 or 8
 - Spring IoC
 - Spring WebMVC 5
 - Spring Security 5
